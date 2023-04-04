@@ -1,0 +1,21 @@
+{
+  "firstName": "Walid",
+  "lastName": "Hanif",
+  "gender": "Male",
+  "age": 19,
+  "address": {
+    "streetAddress": "Sukabirus",
+    "city": "Bandung",
+    "state": "West Java"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2C3",
+      "name": "Basis Data"
+    }
+  ]
+}
