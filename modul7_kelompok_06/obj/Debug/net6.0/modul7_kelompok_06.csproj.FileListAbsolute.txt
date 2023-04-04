@@ -1,0 +1,5 @@
+E:\MOD7\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.csproj.AssemblyReference.cache
+E:\MOD7\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.GeneratedMSBuildEditorConfig.editorconfig
+E:\MOD7\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.AssemblyInfoInputs.cache
+E:\MOD7\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.AssemblyInfo.cs
+E:\MOD7\modul7_kelompok_06\modul7_kelompok_06\obj\Debug\net6.0\modul7_kelompok_06.csproj.CoreCompileInputs.cache

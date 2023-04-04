@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UZ5XI3EaD21lpC5SXJMqo1jbWp4Uzzo32XFhQSQB9j8OL4depmZD832SgZBwVZkCzdxj+7IwNbFU+lbabWYVnQ==",
+  "dgSpecHash": "gvGqD0GVVAByvz5SVHuRLW+BV4/yajp8aMJ3FpiQtnfcQFLt6OiZrwgac47mvtDgocElJ0x21V6zPxc035Nq9A==",
   "success": true,
   "projectFilePath": "E:\\MOD7\\modul7_kelompok_06\\modul7_kelompok_06\\modul7_kelompok_06.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
